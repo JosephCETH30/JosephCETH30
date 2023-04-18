@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **PHP Frameworks, Nodejs, API, others Backend Language**
 
-- 🔭 I’m currently working on [Urusizin](https://urusizin.co)
+- 🔭 I’m currently working on [Urusizin](https://urusizin.co) - Maintenance 
 
-- 🔭 I’m currently working on [Urushalal](https://urushalal.co)
+- 🔭 I’m currently working on [Urushalal](https://urushalal.co) - Maintenance
 
 - 👨‍💻 All of my projects are available at [https://pyosephhh.netlify.app/](https://pyosephhh.netlify.app/)
 
@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **CSS, Javascript**
 
-- 📫 How to reach me **aseprbc@proton.me**
+- 📫 How to reach me **yoseph@skiff.com**
 
 - 📄 Know about my experiences [https://pyosephhh.netlify.app/](https://pyosephhh.netlify.app/)
 
