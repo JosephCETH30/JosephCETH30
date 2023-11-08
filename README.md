@@ -3,14 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josephceth30&label=Profile%20views&color=0e75b6&style=flat" alt="josephceth30" /> </p>
 
-- 🔭 I’m currently working on [Halalhero](https://halalhero.id)
-
-- 🌱 I’m currently learning **PHP Frameworks, Nodejs, API, others Backend Language**
-
-- 🔭 I’m currently working on [Urusizin](https://urusizin.co) - Maintenance 
-
-- 🔭 I’m currently working on [Urushalal](https://urushalal.co) - Maintenance
-
 - 👨‍💻 All of my projects are available at [https://pyosephhh.netlify.app/](https://pyosephhh.netlify.app/)
 
 - 📝 I regularly write articles on [https://blogpy.netlify.app/](https://blogpy.netlify.app/)
