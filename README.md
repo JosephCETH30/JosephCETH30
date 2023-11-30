@@ -3,15 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josephceth30&label=Profile%20views&color=0e75b6&style=flat" alt="josephceth30" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://pyosephhh.netlify.app/](https://pyosephhh.netlify.app/)
-
-- 📝 I regularly write articles on [https://blogpy.netlify.app/](https://blogpy.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://punyayoseph.vercel.app/]([https://pyosephhh.netlify.app/](https://punyayoseph.vercel.app/))
 
 - 💬 Ask me about **CSS, Javascript**
 
 - 📫 How to reach me **yoseph@skiff.com**
-
-- 📄 Know about my experiences [https://pyosephhh.netlify.app/](https://pyosephhh.netlify.app/)
 
 - ⚡ Actual fact **God is good, God is great**
 
